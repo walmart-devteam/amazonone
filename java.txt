@@ -1,1 +1,2 @@
 This is the new java file
+This is the second line added
